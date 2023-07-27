@@ -3,6 +3,15 @@
 This is a small React project designed to demonstrate the use of chatgpt to create plotly figures from user input. 
 The entire project is described at https://medium.com/@boukelubach/making-your-app-smarter-nlp-integration-made-easy-78e20878e709 
 
+## Preview
+
+![Alt Text](https://imgur.com/a/TmL4Upi.gif#g8IiCGB)
+
+
+
+⚠️ Warning: This is just a simple example using the eval() function to directly input chatgpt responses into code. Do not use this in a production environment as it may pose serious security risks. The eval() function can execute arbitrary code and is highly susceptible to code injection attacks. Always follow best practices for secure coding and input validation to protect your applications from potential vulnerabilities.
+
+Please use this example responsibly and solely for educational or experimental purposes.
 ### Installation
 
 To install the project, please follow the steps below:
