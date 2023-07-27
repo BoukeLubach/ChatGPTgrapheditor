@@ -1,0 +1,38 @@
+.page-wrapper {
+    margin-left: 280px;
+    margin-top: 40px;
+    padding: 10px;
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .page-wrapper {
+      margin-left: 100px;
+    }
+  }
+
+
+  .login {
+    background: url(../img/bg_1.jpg);
+  
+    /* Full height */
+    height: 100vh;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* height: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  }
+
+
+.login-form {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: #444444 0px 0px 20px 8px;
+
+}

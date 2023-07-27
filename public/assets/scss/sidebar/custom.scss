@@ -1,0 +1,31 @@
+// Your variable overrides
+$sidebar-bg-color: linear-gradient(0deg, #003844 0%, #00252d 100%);
+$sidebar-color: #DBDBDB !default;
+$highlight-color: #ffffff !default;
+$highlight-font-weight: 500 !default;
+// $submenu-bg-color: #B66D0D;
+$submenu-bg-color:#003844; 
+$submenu-bg-color-collapsed: #003844;
+$icon-bg-color: #003844 !default;
+
+//default settings
+// $sidebar-bg-color: #1d1d1d !default;
+// $sidebar-color: #adadad !default;
+// $sidebar-width: 270px !default;
+// $sidebar-collapsed-width: 80px !default;
+// $highlight-color: #d8d8d8 !default;
+// $submenu-bg-color: #2b2b2b !default;
+// $submenu-bg-color-collapsed: #2b2b2b !default;
+// $icon-bg-color: #2b2b2b !default;
+// $icon-size: 35px !default;
+// $submenu-indent: 24px !default;
+// $breakpoint-xs: 480px !default;
+// $breakpoint-sm: 576px !default;
+// $breakpoint-md: 768px !default;
+// $breakpoint-lg: 992px !default;
+// $breakpoint-xl: 1200px !default;
+// $breakpoint-xxl: 1600px !default;
+
+
+@import './react-pro-sidebar/styles'
+// @import '~react-pro-sidebar/dist/scss/styles.scss';          //original as provided by npm
