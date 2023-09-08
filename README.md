@@ -22,4 +22,4 @@ To run the project, please follow the steps below:
 
 
  ## Preview
-![Alt Text](https://imgur.com/a/TmL4Upi#g8IiCGB)
+![Alt Text]('https://i.imgur.com/g8IiCGB.gif')
