@@ -22,4 +22,4 @@ To run the project, please follow the steps below:
 
 
  ## Preview
-![Alt Text]('https://i.imgur.com/g8IiCGB.gif')
+![Preview GIF](preview.gif)
