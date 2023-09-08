@@ -1,24 +1,16 @@
-## React Demo Project
+# Chatgpt graphbuild
 
-This is a small React project designed to demonstrate the use of chatgpt to create plotly figures from user input. 
-The entire project is described at https://medium.com/@boukelubach/making-your-app-smarter-nlp-integration-made-easy-78e20878e709 
+## Project Description:
 
-## Preview
+This project creates a React page that connects to an API to generate and display graphs using Plotly.js. It handles user input for conversations with ChatGPT, rendering chat dialogs and graphs. The API's responses are directly used to render graphs.
+The initial system prompt instructs ChatGPT to generate specific plot data objects. The project discusses the benefits of using NLP for graph adjustment, highlights potential downsides, and suggests future applications.
+Integrating NLP enhances the user experience, automating graph adjustments and offering room for further app improvements.
 
-![Alt Text](https://imgur.com/a/TmL4Upi.gif#g8IiCGB)
-
-
-
-⚠️ Warning: This is just a simple example using the eval() function to directly input chatgpt responses into code. Do not use this in a production environment as it may pose serious security risks. The eval() function can execute arbitrary code and is highly susceptible to code injection attacks. Always follow best practices for secure coding and input validation to protect your applications from potential vulnerabilities.
-
-Please use this example responsibly and solely for educational or experimental purposes.
-### Installation
 
 To install the project, please follow the steps below:
 
 1. Clone the repository to your local machine using the command `git clone <repo name>`.
 2. Navigate to the project directory using the command `cd react-demo-project`.
-3. Install all dependencies by running `npm install`.
 
 ### Running the project
 
@@ -28,6 +20,3 @@ To run the project, please follow the steps below:
 2. Start the development server by running `npm start`.
 3. The project will be available on `http://localhost:3000`.
 
-### Project Structure
-
-The project structure is as follows:
