@@ -20,3 +20,6 @@ To run the project, please follow the steps below:
 2. Start the development server by running `npm start`.
 3. The project will be available on `http://localhost:3000`.
 
+
+ ## Preview
+![Alt Text](https://imgur.com/a/TmL4Upi#g8IiCGB)
